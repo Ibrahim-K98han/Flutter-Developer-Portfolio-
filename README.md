@@ -109,5 +109,3 @@ Technologies
 [**Check out the  My Task here!**](https://github.com/Ibrahim-K98han/My_Task_Flutter_Application)
 
 
-[**Check out the Task Manager App here!**](https://github.com/Ibrahim-K98han/My_Task_Flutter_Application/tree/main)
-
