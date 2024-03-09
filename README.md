@@ -1,7 +1,8 @@
 # Flutter-Developer-Portfolio
 
 <p align="left">
-  <img width="1000" alt="Ibrahim Khan" src="https://github.com/Ibrahim-K98han/Flutter-Developer-Portfolio-/assets/37374226/260f7810-a7e6-40e2-a771-6b91ec41e4b4" />
+
+  <img width="1000" alt="Ibrahim Khan" src="https://github.com/Ibrahim-K98han/Flutter-Developer-Portfolio-/assets/37374226/ef29b6dd-be8b-4481-84b4-6a7cf1468d8c" />
 </p>
 
 Hello and welcome! 👋🏾 Thank you for taking the time to explore my GitHub repository. Here, you will find a curated selection of my recent Flutter projects that showcase my skills and expertise. As a Flutter Developer, I am currently seeking remote or relocation opportunities. Please take a look at my projects to see what I can do. If you think I'd be a good fit for your team, feel free to reach out! 
