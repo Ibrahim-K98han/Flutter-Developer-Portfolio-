@@ -42,9 +42,3 @@ Technologies
 [**Check out the Task Manager App here!**](https://github.com/Ibrahim-K98han/Flutter_Taskmanager_Application/tree/main)
 
 
-- Riverpod for State Management 🚀
-- Internationalization (en & pt) 🌎
-- Optimized for iOS and Android 📱
-
-
-[**Check out the Quote Generator App Repository here!**](https://github.com/IsaiasCuvula/quote_generator)
