@@ -11,7 +11,6 @@ Hello and welcome! 👋🏾 Thank you for taking the time to explore my GitHub r
 # Task Manager
 
 <p align="left">
-
   <img width="1000" alt="Task Manager" src="https://github.com/Ibrahim-K98han/Flutter-Developer-Portfolio-/assets/37374226/34ed1887-77e9-41fa-bf6e-c503451ed071" />
 </p>
 
@@ -42,4 +41,45 @@ Technologies
 
 [**Check out the Task Manager App here!**](https://github.com/Ibrahim-K98han/Flutter_Taskmanager_Application/tree/main)
 
+#
+# My Task Application
+
+<p align="left">
+  <img width="1000" alt="My Task" src="https://github.com/Ibrahim-K98han/Flutter-Developer-Portfolio-/assets/37374226/f40489ed-3394-4f98-b35c-3c5a5f5f7fcf" />
+</p>
+
+My Task - Initially, the user has to register and then can log in. After login home page will show where all tasks will show. A new task can be added by clicking on the add button which will show on the home page. By moving the task to the left, 2 buttons will appear through which the user can delete and update the task.
+
+## My Task. 
+
+<p align="left">
+  <img width="200" alt="MyTaskMockup1" src="https://github.com/Ibrahim-K98han/Flutter-Developer-Portfolio-/assets/37374226/a39108ee-cf1f-4e67-ac05-eff8ecf79882" />
+  <img width="200" alt="MyTaskMockup2" src="https://github.com/Ibrahim-K98han/Flutter-Developer-Portfolio-/assets/37374226/0884667f-adf3-4fe9-8b48-eb2ea25359f2" />
+  <img width="200" alt="MyTaskMockup3" src="https://github.com/Ibrahim-K98han/Flutter-Developer-Portfolio-/assets/37374226/fee67a3b-2e88-40bf-806e-dd0c05651c3c" />
+  <img width="200" alt="MyTaskMockup4" src="https://github.com/Ibrahim-K98han/Flutter-Developer-Portfolio-/assets/37374226/b4ab47b5-e349-49a5-85c8-cbff5a0cfa46" />   
+  <img width="200" alt="MyTaskMockup4" src="https://github.com/Ibrahim-K98han/Flutter-Developer-Portfolio-/assets/37374226/9b66169c-94cb-4229-a1c0-6d65b1ae0696" />   
+  <img width="200" alt="MyTaskMockup4" src="https://github.com/Ibrahim-K98han/Flutter-Developer-Portfolio-/assets/37374226/731d2e62-149a-441a-9814-d5328131386e" />   
+  <img width="200" alt="MyTaskMockup4" src="https://github.com/Ibrahim-K98han/Flutter-Developer-Portfolio-/assets/37374226/79378df2-0cb1-4048-9a69-b5989a57db7c" />   
+  <img width="200" alt="MyTaskMockup4" src="https://github.com/Ibrahim-K98han/Flutter-Developer-Portfolio-/assets/37374226/d86b6430-0437-40b9-85fb-c496e97fcbc7" />   
+  <img width="200" alt="MyTaskMockup4" src="https://github.com/Ibrahim-K98han/Flutter-Developer-Portfolio-/assets/37374226/c173fe0b-2165-4727-8fae-5169b84265b0" />   
+  <img width="200" alt="MyTaskMockup4" src="https://github.com/Ibrahim-K98han/Flutter-Developer-Portfolio-/assets/37374226/5460abf6-98cb-47c7-905e-8870af209d98" />   
+  <img width="200" alt="MyTaskMockup4" src="https://github.com/Ibrahim-K98han/Flutter-Developer-Portfolio-/assets/37374226/997c2ed0-dcfd-4f3d-a695-fec6c5ec2735" />   
+</p>
+
+Technologies
+
+- Flutter 🦋 
+- Dart 💻
+- lottie 🔥
+- get 
+- pin_code_fields 💾
+- http 🔑
+- flutter_slidable 
+- shared_preferences 🔑
+- image_picker
+-  font_awesome_flutter
+- Clean Architecture 🔨
+
+
+[**Check out the Task Manager App here!**](https://github.com/Ibrahim-K98han/My_Task_Flutter_Application/tree/main)
 
