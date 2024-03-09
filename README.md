@@ -42,6 +42,32 @@ Technologies
 [**Check out the Task Manager App here!**](https://github.com/Ibrahim-K98han/Flutter_Taskmanager_Application/tree/main)
 
 #
+# Genius Open Scout Group Application
+
+<p align="left">
+  <img width="1000" alt="Scout" src="https://github.com/Ibrahim-K98han/Flutter-Developer-Portfolio-/assets/37374226/bcae3121-9051-45e1-ae6e-c22bcab3113a" />
+</p>
+
+Genius Open Scout Group Application - With the help of the Genius Open Scout Group Application, all newbies in the group can be contacted very easily. Direct calls can be made with the help of this app. Newcomers can be found by searching and blood groups, mobile numbers, addresses can be known.
+
+## Genius Open Scout Group Application. 
+
+<p align="left">
+  <img width="200" alt="MyTaskMockup1" src="https://github.com/Ibrahim-K98han/Flutter-Developer-Portfolio-/assets/37374226/ad178d14-0c5d-4ea2-9eec-8b93b7b9205b" />
+  <img width="200" alt="MyTaskMockup2" src="https://github.com/Ibrahim-K98han/Flutter-Developer-Portfolio-/assets/37374226/47c8f5cd-f436-450b-948f-9c22466b615c" />
+  <img width="200" alt="MyTaskMockup3" src="https://github.com/Ibrahim-K98han/Flutter-Developer-Portfolio-/assets/37374226/c951c034-6e4d-4e7a-bcc4-b5fcb572c104" />  
+</p>
+
+Technologies
+
+- Flutter 🦋 
+- Dart 💻
+- get 🔥
+- url_launcher 💾
+
+[**Check out the Genius Open Scout Group App here!**](https://github.com/Ibrahim-K98han/Scout_Flutter_Application)
+
+#
 # My Task Application
 
 <p align="left">
@@ -79,6 +105,8 @@ Technologies
 - image_picker
 -  font_awesome_flutter
 - Clean Architecture 🔨
+
+[**Check out the  My Task here!**](https://github.com/Ibrahim-K98han/My_Task_Flutter_Application)
 
 
 [**Check out the Task Manager App here!**](https://github.com/Ibrahim-K98han/My_Task_Flutter_Application/tree/main)
